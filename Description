@@ -1,0 +1,17 @@
+Student's Performance Dashboard.
+(Login Id and Password based access to dashboard created in Qlik Sense cloud (Trial Edition{no section Access}).
+
+There are Three different usergroups in the Data.
+1. Principals: who can see the dashboards of all the students along with that they can also add users or remove users (using Admin Page) and can control their access to dashboards.
+2. Teachers: who can see the dasboards of those students only who are in their Class. They don't have access to admin Page.
+3. Students: who can only see their dashboard and no control over admin Page.
+
+*All the users have different user id and password.
+*Entering wrong password or user id will not load the dashboard.
+
+All the Datasets used in the dashboard are created by me.
+This Dashboard is created on Qlik Sense Cloud (Trial Edition) without using Section Acess.
+
+Shortcomings of the Dashboard: 
+1. Tried making the image of each student dynamic using url but was unable to do so.
+2. Sometimes the dashboard crases for 2-3 sec and restarts to login Page which might be due to limitations of trial edition .
